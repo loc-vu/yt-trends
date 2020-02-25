@@ -15,3 +15,5 @@ Kaggle : [Trending YouTube Video Statistics](https://www.kaggle.com/datasnaek/yo
         c. Title Feature analysis
 2. Category Prediction based on Title
         a. Naive Bayes
+        b. Logistical Regression
+        c. Support Vector Machine (SVM)
